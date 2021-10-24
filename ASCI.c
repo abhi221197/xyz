@@ -7,6 +7,7 @@ int main()
 {
 	char ch;
 	int n;
+	int n1;
 	printf("\n enter any charcter");
 	scanf("%c",&ch);
 	if ((ch=='a')||(ch=='e')||(ch=='i')||(ch=='o')||(ch=='u'))
